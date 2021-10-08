@@ -4,12 +4,12 @@ The Seoul Metropolitan Government launched a public bike-sharing service in 2015
 
 
 #  Team Members :
-##                 1-Abdullah Abdelhakeem
-##                 2-Mohamed Sebaie
-##                 3-Mohamed Mostafa
-##                 4-Osama Ahmed
-##                 5-Mahmoud Osama 
-#
-#  Version: v1.1.0 (Submitted)
-#  Description: Seoul Bike Rental Prediction - AI-Pro - ITI
-# 
+###                 1-Abdullah Abdelhakeem
+###                 2-Mohamed Sebaie
+###                 3-Mohamed Mostafa
+###                 4-Osama Ahmed
+###                 5-Mahmoud Osama 
+
+####  Version: v1.1.0 (Submitted)
+####  Description: Seoul Bike Rental Prediction - AI-Pro - ITI
+ 
